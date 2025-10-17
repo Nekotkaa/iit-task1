@@ -1,4 +1,4 @@
-Will AI Take Our Jobs?  
+# Will AI Take Our Jobs?  
 
 CAUTION: This is AI-generated overview on the given topic.
 
@@ -6,7 +6,7 @@ CAUTION: This is AI-generated overview on the given topic.
 
 ---
 
-### 1) The wrong question: jobs vs. tasks
+## 1) The wrong question: jobs vs. tasks
 
 When people ask “Will AI take our jobs?”, they usually imagine whole occupations disappearing. History (electricity, PCs, the internet) suggests something subtler: technologies **automate tasks**, which changes **job content, productivity**, and **demand**. That’s why economists talk about task-level automation rather than job-level extinction.
 
@@ -26,7 +26,7 @@ A good rule of thumb:
 
 ---
 
-### 2) What the best recent evidence says
+## 2) What the best recent evidence says
 
 **Short‑term productivity effects (micro evidence).**  
 - A large field study in a Fortune 500 contact center found that giving agents a generative‑AI assistant increased **issues resolved per hour by ~14**%, with the biggest gains for the least‑experienced agents—and better customer sentiment.<sup>[^nber]</sup>  
@@ -45,7 +45,7 @@ A good rule of thumb:
 
 ---
 
-### 3) Who’s at risk, who benefits?
+## 3) Who’s at risk, who benefits?
 
 **Higher exposure (declining demand without reskilling):**  
 - Routine office support & clerical roles (data entry, scheduling, basic reporting).  
