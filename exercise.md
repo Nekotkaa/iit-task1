@@ -68,7 +68,7 @@ A good rule of thumb:
 3. **Skills portfolio** updates: promptcraft, toolchain literacy (APIs, automation), security/privacy hygiene, critical reading of AI output.  
 4. **Metrics** change: throughput and cycle time improve; judgement errors (hallucinations, misclassifications) become the new bottlenecks to manage.
 
-**Design principle for teams**: _ _Automate the boring, amplify the human._ _
+**Design principle for teams**: _Automate the boring, amplify the human._ 
 
 ---
 
