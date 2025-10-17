@@ -97,7 +97,7 @@ A simple checklist for any AI‑assisted task:
 - **Guardrails**: data protection, bias testing, provenance/watermarking, and incident response.  
 - **Safety nets**: transition support where displacement is concentrated.  
 
-**Reality chec**k: AI’s net effects depend on **choices—**of firms (deployment), governments (policy), and individuals (skills).
+**Reality chec**k: AI’s net effects depend on **choices—** of firms (deployment), governments (policy), and individuals (skills).
 
 ---
 
